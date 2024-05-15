@@ -14,6 +14,7 @@ class Child22 extends Parent22 {
         System.out.println("Child22 + param " + x);
     }
 
+
     public Child22() {
         super(11);
         System.out.println("Child22 + param 11");
